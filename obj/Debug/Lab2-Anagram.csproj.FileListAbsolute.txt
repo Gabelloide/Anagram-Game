@@ -39,3 +39,14 @@ Z:\Semestre 2\IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\obj\Debug\Lab2-Anagr
 Z:\Semestre 2\IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\obj\Debug\Lab2-Anagram.csproj.CoreCompileInputs.cache
 Z:\Semestre 2\IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\obj\Debug\Lab2-Anagram.exe
 Z:\Semestre 2\IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\obj\Debug\Lab2-Anagram.pdb
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\bin\Debug\Lab2-Anagram.exe.config
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\bin\Debug\Lab2-Anagram.exe
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\bin\Debug\Lab2-Anagram.pdb
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2-Anagram.csproj.AssemblyReference.cache
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2-Anagram.csproj.SuggestedBindingRedirects.cache
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2_Anagram.AnagramGame.resources
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2_Anagram.Properties.Resources.resources
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2-Anagram.csproj.GenerateResource.cache
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2-Anagram.csproj.CoreCompileInputs.cache
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2-Anagram.exe
+C:\Users\olivi\OneDrive\Documents\Olivier\Université\Semestre 2\R202 - Développement d'applications avec IHM\Gabelle Olivier Lab2 Anagram\Lab2-Anagram\Anagram-Game\obj\Debug\Lab2-Anagram.pdb
